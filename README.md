@@ -55,8 +55,5 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmumi&layout=compact)](https://github.com/youngmumi/github-readme-stats)
-
-
 
 </div>
