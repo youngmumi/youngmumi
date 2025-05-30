@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%EC%9C%A0%EC%A0%95-%EA%B9%80-18057b346/">
+  <a href="https://www.linkedin.com/in/yujeong-kim-18057b346/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="5%" />
   </a>
   <a href="https://blog-of-tifo.tistory.com/">
