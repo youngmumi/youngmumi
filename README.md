@@ -45,7 +45,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="5%"/>
 
 <br>
+<br>
+<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmumi&layout=compact)
 
 <br>
 <br>
