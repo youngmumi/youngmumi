@@ -48,7 +48,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmumi&layout=compact&theme=light&hide=CMake)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmumi&layout=compact&theme=light&hide=CMake,Ren'py)
 
 <br>
 
