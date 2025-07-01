@@ -48,7 +48,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=youngmumi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmumi&layout=compact&theme=dracula)
 
 <br>
 <br>
